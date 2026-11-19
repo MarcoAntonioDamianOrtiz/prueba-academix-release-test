@@ -1,2 +1,8 @@
-# prueba-academix-release-test
-Pruebas de Release Please para Academix
+# Academix
+
+Plataforma educativa web y móvil.
+
+Funcionalidades:
+- Inicio de sesión.
+- Registro de usuarios.
+- Catálogo de cursos.
